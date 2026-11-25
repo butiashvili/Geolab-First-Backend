@@ -1,0 +1,12 @@
+{
+  "name": "express-backend",
+  "version": "1.0.0",
+  "description": "მარტივი Express.js ბექენდ პროექტი",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
